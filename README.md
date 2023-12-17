@@ -1,4 +1,4 @@
-# Cross course project - Museum of Osteology
+# Semester Project - Museum of Osteology
 
 ![image](semesterProject.png)
 
